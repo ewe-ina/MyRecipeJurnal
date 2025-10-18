@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-5">
+  <h1 class="mb-4">{{ article.title }}</h1>
+  <p><em>{{ article.date.strftime('%B %d, %Y') }}</em></p>
+  <div class="content">
+    {{ article.content }}
+  </div>
+  <a href="{{ SITEURL }}/" class="btn btn-secondary mt-4">← Back to recipes</a>
+</div>
+{% endblock %}
