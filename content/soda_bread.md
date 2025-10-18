@@ -7,24 +7,23 @@ Author: Ewelina Walkusz
 
 ## Soda Bread
 
-![Soda Bread](static/images/soda_bread.jpg)
+![def]
 
-Makes 18 slices, approx. 103 kcal each
+    👉 18 slices, approx. 103 kcal each
+    👉 Loaf pan: 26 x 11 cm  
+    👉 Oven: top and bottom heat, 200°C (392°F), 40 min + 10 min covered with foil
 
-\* Loaf pan: 26 x 11 cm  
-\* Oven: top and bottom heat, 200°C (392°F), 40 min + 10 min covered with foil
+### 🌿 Ingredients
 
-### Ingredients
+    ⬜ 400 ml soy milk  
+    ⬜ 1 tablespoon vinegar  
+    ⬜ 1 teaspoon lemon juice  
+    ⬜ 2 teaspoons baking soda  
+    ⬜ 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour)  
+    ⬜ 1 teaspoon salt  
+    ⬜ 2 tablespoons black cumin seeds (nigella seeds)  
 
-- 400 ml soy milk  
-- 1 tablespoon vinegar  
-- 1 teaspoon lemon juice  
-- 2 teaspoons baking soda  
-- 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour)  
-- 1 teaspoon salt  
-- 2 tablespoons black cumin seeds (nigella seeds)  
-
-### Instructions
+### 📝 Instructions
 
 1. Pour the soy milk and vinegar into a bowl. Let it sit for a moment until it curdles and turns into a buttermilk substitute.  
 2. Add lemon juice and baking soda — the mixture will fizz a bit 🙂  
@@ -41,3 +40,5 @@ Makes 18 slices, approx. 103 kcal each
 This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or sourdough starters are hard to find — a great alternative!
 
 Enjoy!
+
+[def]: static/images/soda_bread.jpg
