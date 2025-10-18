@@ -2,8 +2,7 @@
 {% block content %}
 <div class="container mt-5">
   <h1 class="mb-4">{{ article.title }}</h1>
-  <p><em>{{ article.date.strftime('%B %d, %Y') }}</em></p>
-  <p><em>By {{ article.author }}</em></p>
+  <p><em>{{ article.date.strftime('%B %d, %Y') }} &nbsp;&nbsp;|&nbsp;&nbsp; {{ article.author }}</em></p>
   <div class="content">
     {{ article.content }}
   </div>
