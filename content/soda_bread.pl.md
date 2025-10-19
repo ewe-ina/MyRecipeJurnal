@@ -44,4 +44,4 @@ Jest naprawdę smaczny a przy tym prosty i szybki w wykonaniu ❤ A w czasach, g
 
 Smacznego!
 
-[def]: ../static/images/soda_bread.jpg
+[def]: static/images/soda_bread.jpg
