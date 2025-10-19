@@ -7,6 +7,17 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="icon" href="{{ SITEURL }}/static/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="{{ SITEURL }}/static/css/custom.css">
+  <div class="language-switcher" style="position: absolute; top: 20px; right: 20px;">
+    {% if article is defined and article.translations %}
+      {% for t in article.translations %}
+        {% if t.lang == 'pl' %}
+          <a href="{{ SITEURL }}/pl/{{ t.url }}" class="btn btn-outline-primary btn-sm">🇵🇱 Polski</a>
+        {% elif t.lang == 'en' %}
+          <a href="{{ SITEURL }}/{{ t.url }}" class="btn btn-outline-primary btn-sm">🇬🇧 English</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
 </head>
 <body>
   {% block content %}{% endblock %}
