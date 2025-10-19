@@ -11,7 +11,7 @@
     {% if article is defined and article.translations %}
       {% for t in article.translations %}
         {% if t.lang == 'pl' %}
-          <a href="{{ SITEURL }}/pl/{{ t.url }}" class="btn btn-outline-primary btn-sm">🇵🇱 Polski</a>
+          <a href="{{ SITEURL }}/{{ t.url }}" class="btn btn-outline-primary btn-sm">🇵🇱 Polski</a>
         {% elif t.lang == 'en' %}
           <a href="{{ SITEURL }}/{{ t.url }}" class="btn btn-outline-primary btn-sm">🇬🇧 English</a>
         {% endif %}
