@@ -22,9 +22,12 @@ JINJA_ENVIRONMENT = {
 I18N_SUBSITES = {
     'pl': {
         'SITENAME': 'Przepysznik',
-        'LOCALE': 'pl_PL',
         'DEFAULT_LANG': 'pl',
-        'SITEURL': 'http://localhost:8000'
+        'LOCALE': 'pl_PL.UTF-8',
+        'SITEURL': 'http://localhost:8000',
+        'ARTICLE_URL': '{slug}-pl.html',
+        'ARTICLE_SAVE_AS': '{slug}-pl.html',
     }
 }
+
 DEFAULT_METADATA_ENCODING = 'utf-8'

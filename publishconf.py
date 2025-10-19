@@ -19,7 +19,9 @@ I18N_SUBSITES = {
         'SITENAME': 'Przepysznik',
         'DEFAULT_LANG': 'pl',
         'LOCALE': 'pl_PL.UTF-8',
-        'SITEURL': 'https://ewe-ina.github.io/MyRecipeJurnal'
+        'SITEURL': 'https://ewe-ina.github.io/MyRecipeJurnal',
+        'ARTICLE_URL': '{slug}-pl.html',
+        'ARTICLE_SAVE_AS': '{slug}-pl.html',
     }
 }
 
