@@ -1,7 +1,10 @@
 Title: Soda Bread
-Date: 2020-04-13
+Date: 2020-04-11
+Slug: soda-bread
 Summary: Easy and delicious vegan soda bread – no yeast or sourdough needed.
 Author: Ewelina Walkusz
+Lang: en
+TranslationKey: soda-bread
 
 ---
 
@@ -15,13 +18,13 @@ Author: Ewelina Walkusz
 
 ### 🌿 Ingredients
 
-- ⬜ 400 ml soy milk
-- ⬜ 1 tablespoon vinegar
-- ⬜ 1 teaspoon lemon juice
-- ⬜2 teaspoons baking soda
-- ⬜500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour)
-- ⬜1 teaspoon salt
-- ⬜ 2 tablespoons black cumin seeds (nigella seeds)
+&emsp; ⬜ 400 ml soy milk </br>
+&emsp; ⬜ 1 tablespoon vinegar </br>
+&emsp; ⬜ 1 teaspoon lemon juice </br>
+&emsp; ⬜ 2 teaspoons baking soda </br>
+&emsp; ⬜ 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour) </br>
+&emsp; ⬜ 1 teaspoon salt </br>
+&emsp; ⬜ 2 tablespoons black cumin seeds (nigella seeds) </br>
 
 ### 📝 Instructions
 
