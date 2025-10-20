@@ -12,9 +12,13 @@ TranslationKey: soda-bread
 
 ![def]
 
+This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or sourdough starters are hard to find — a great alternative!
+
+---
+
 🔹 18 slices, approx. 103 kcal each </br>
-🔹 Loaf pan: 26 x 11 cm </br> 
-🔹 Oven: top and bottom heat, 200°C (392°F), 40 min + 10 min covered with foil
+🔹 Loaf pan: 26 x 11 cm </br>
+🔹 Oven: top and bottom heat, 200°C (400°F), 40 min + 10 min covered with foil
 
 ### 🌿 Ingredients
 
@@ -40,8 +44,6 @@ TranslationKey: soda-bread
 
 ---
 
-This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or sourdough starters are hard to find — a great alternative!
-
-Enjoy!
+Enjoy! 💙
 
 [def]: static/images/soda_bread.jpg
