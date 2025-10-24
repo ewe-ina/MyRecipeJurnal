@@ -1,10 +1,10 @@
-Title: Jar Cupcakes  
+Title: Jar Cupcakes
 Date: 2019-05-11
-Slug: jar-cupcakes  
-Summary: Soft banana, blueberry & chocolate cupcakes packed into jars – perfect for a bike trip or picnic!  
-Author: Ewelina Walkusz  
-Lang: en  
-TranslationKey: jar-cupcakes  
+Slug: jar-cupcakes
+Summary: Soft banana, blueberry & chocolate cupcakes packed into jars – perfect for a bike trip or picnic!
+Author: Ewelina Walkusz
+Lang: en
+TranslationKey: jar-cupcakes
 
 ---
 

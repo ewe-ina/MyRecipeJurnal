@@ -14,8 +14,8 @@ TranslationKey: stuffed-peppers
 
 🕐 Czas przygotowania ok. 1 godz. 15 min
 
-🔹 4 porcje </br>
-🔹 Piekarnik: 180°C (góra-dół)
+⭐ 4 porcje </br>
+⭐ Piekarnik: 180°C (góra-dół)
 
 ---
 

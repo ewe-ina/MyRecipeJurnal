@@ -14,8 +14,8 @@ TranslationKey: stuffed-peppers
 
 🕐 Prep time: around 1 hr 15 min
 
-🔹 Serves 4 </br>
-🔹 Oven: 180°C / about 355°F </br>
+⭐ Serves 4 </br>
+⭐ Oven: 180°C / about 355°F </br>
   
 ---
 

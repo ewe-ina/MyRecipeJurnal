@@ -12,13 +12,12 @@ TranslationKey: soda-bread
 
 ![def]
 
-
 Jest naprawdę smaczny a przy tym prosty i szybki w wykonaniu ❤ A w czasach, gdy o drożdże czy o zakwas trudno – stanowi idealną alternatywę 😉
 
 ---
 
 🔹 18 kromek, 103 kcal każda </br>
-🔹 Foremka: 26 x 11 cm </br> 
+🔹 Foremka: 26 x 11 cm </br>
 🔹 Piekarnik: góra-dół, 200 st.C, 40 min + 10 pod folią aluminiową
 
 ### 🌿 Składniki
