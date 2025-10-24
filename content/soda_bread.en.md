@@ -30,7 +30,7 @@ This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or 
 &emsp; ⬜ 1 teaspoon salt </br>
 &emsp; ⬜ 2 tablespoons black cumin seeds (nigella seeds) </br>
 
-### 📝 Instructions
+### 📝 Preparation
 
 1. Pour the soy milk and vinegar into a bowl. Let it sit for a moment until it curdles and turns into a buttermilk substitute.
 2. Add lemon juice and baking soda — the mixture will fizz a bit 🙂

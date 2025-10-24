@@ -41,7 +41,7 @@ When you’re short on time...
 &emsp; ⬜ 1 carrot </br>
 &emsp; ⬜ a bit of chives </br>
 
-### 📝 Instructions
+### 📝 Preparation
 
 1. Cook the rice in salted water.
 2. In another pot, pour in the beans with their liquid, add chopped onions and diced bell pepper.

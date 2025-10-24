@@ -31,7 +31,7 @@ TranslationKey: stuffed-peppers
 &emsp; ⬜ oil </br>
 &emsp; ⬜ butter (for greasing the baking dish) </br>
 
-### 📝 Instructions
+### 📝 Preparation
 
 Slice off the tops of the peppers (keep the stems) and remove the seeds.  
 Cook the rice until fluffy.  

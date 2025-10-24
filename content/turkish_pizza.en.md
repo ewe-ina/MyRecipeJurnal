@@ -36,7 +36,7 @@ TranslationKey: turkish-pizza
 &emsp; ⬜ 50 g grated cheddar cheese </br>
 &emsp; ⬜ sesame seeds and nigella seeds (optional) </br>
 
-### 📝 Instructions
+### 📝 Preparation
 
 Whisk the eggs with oil, then add flour and finally milk.  
 Stir in baking powder, salt, and pepper.  

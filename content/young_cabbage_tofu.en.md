@@ -37,7 +37,7 @@ A lightning-fast meal made on the fly ⚡
 &emsp; ⬜ 1 block firm tofu </br>
 &emsp; ⬜ spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>
 
-### 📝 Instructions
+### 📝 Preparation
 
 1. Heat oil in a pan.  
 2. Add diced onion and a pinch of salt.  
