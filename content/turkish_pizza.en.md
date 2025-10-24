@@ -21,20 +21,20 @@ TranslationKey: turkish-pizza
 
 ### 🌿 Ingredients
 
-&emsp; ⬜ 4 potatoes, grated </br>
-&emsp; ⬜ 1 leek, sliced into rings </br>
-&emsp; ⬜ 2 carrots, grated </br>
-&emsp; ⬜ 100 g fresh spinach, chopped </br>
-&emsp; ⬜ ½ red bell pepper, diced </br>
-&emsp; ⬜ 4 eggs </br>
-&emsp; ⬜ 4 tbsp oil or olive oil </br>
-&emsp; ⬜ 4 tbsp milk </br>
-&emsp; ⬜ 4 tbsp flour </br>
-&emsp; ⬜ 2 tsp baking powder </br>
-&emsp; ⬜ 2 tsp salt </br>
-&emsp; ⬜ 1 tsp black pepper </br>
-&emsp; ⬜ 50 g grated cheddar cheese </br>
-&emsp; ⬜ sesame seeds and nigella seeds (optional) </br>
+&emsp; <input type="checkbox"> 4 potatoes, grated </br>
+&emsp; <input type="checkbox"> 1 leek, sliced into rings </br>
+&emsp; <input type="checkbox"> 2 carrots, grated </br>
+&emsp; <input type="checkbox"> 100 g fresh spinach, chopped </br>
+&emsp; <input type="checkbox"> ½ red bell pepper, diced </br>
+&emsp; <input type="checkbox"> 4 eggs </br>
+&emsp; <input type="checkbox"> 4 tbsp oil or olive oil </br>
+&emsp; <input type="checkbox"> 4 tbsp milk </br>
+&emsp; <input type="checkbox"> 4 tbsp flour </br>
+&emsp; <input type="checkbox"> 2 tsp baking powder </br>
+&emsp; <input type="checkbox"> 2 tsp salt </br>
+&emsp; <input type="checkbox"> 1 tsp black pepper </br>
+&emsp; <input type="checkbox"> 50 g grated cheddar cheese </br>
+&emsp; <input type="checkbox"> sesame seeds and nigella seeds (optional) </br>
 
 ### 📝 Preparation
 

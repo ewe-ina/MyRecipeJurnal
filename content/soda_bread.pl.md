@@ -22,13 +22,13 @@ Jest naprawdę smaczny a przy tym prosty i szybki w wykonaniu ❤ A w czasach, g
 
 ### 🌿 Składniki
 
-&emsp; ⬜ 400 ml mleka sojowego </br>
-&emsp; ⬜ 1 łyżka octu </br>
-&emsp; ⬜ 1 łyżeczka soku z cytryny </br>
-&emsp; ⬜ 2 łyżeczki sody </br>
-&emsp; ⬜ 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour) </br>
-&emsp; ⬜ 1 teaspoon salt </br>
-&emsp; ⬜ 2 tablespoons black cumin seeds (nigella seeds) </br>
+&emsp; <input type="checkbox"> 400 ml mleka sojowego </br>
+&emsp; <input type="checkbox"> 1 łyżka octu </br>
+&emsp; <input type="checkbox"> 1 łyżeczka soku z cytryny </br>
+&emsp; <input type="checkbox"> 2 łyżeczki sody </br>
+&emsp; <input type="checkbox"> 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour) </br>
+&emsp; <input type="checkbox"> 1 teaspoon salt </br>
+&emsp; <input type="checkbox"> 2 tablespoons black cumin seeds (nigella seeds) </br>
 
 ### 📝 Przygotowanie
 

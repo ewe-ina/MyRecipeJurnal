@@ -23,9 +23,9 @@ I found some sad-looking eggplants on sale and decided to rescue one. The tofu j
 
 ### 🍚 Millet Base
 
-&emsp; ⬜ 150 g millet </br>
-&emsp; ⬜ water </br>
-&emsp; ⬜ a pinch of salt </br>
+&emsp; <input type="checkbox"> 150 g millet </br>
+&emsp; <input type="checkbox"> water </br>
+&emsp; <input type="checkbox"> a pinch of salt </br>
 
 I’m really lazy in the kitchen! I don’t rinse the millet in hot and cold water or do any fancy tricks 😉  
 I just pour the millet into a small pot, cover it with boiling water from the kettle — about twice the height of the millet, maybe a bit more — add salt, cover with a lid, and cook on low heat.  
@@ -35,14 +35,14 @@ I just pour the millet into a small pot, cover it with boiling water from the ke
 
 ### 🍆 The Stew
 
-&emsp; ⬜ 1 tbsp oil </br>
-&emsp; ⬜ 1 onion </br>
-&emsp; ⬜ salt </br>
-&emsp; ⬜ 2 tomatoes </br>
-&emsp; ⬜ 1 eggplant </br>
-&emsp; ⬜ a bit of water </br>
-&emsp; ⬜ herb seasoning mix (like Knorr “for herbed chicken” 😉) </br>
-&emsp; ⬜ 1 block firm tofu </br>
+&emsp; <input type="checkbox"> 1 tbsp oil </br>
+&emsp; <input type="checkbox"> 1 onion </br>
+&emsp; <input type="checkbox"> salt </br>
+&emsp; <input type="checkbox"> 2 tomatoes </br>
+&emsp; <input type="checkbox"> 1 eggplant </br>
+&emsp; <input type="checkbox"> a bit of water </br>
+&emsp; <input type="checkbox"> herb seasoning mix (like Knorr “for herbed chicken” 😉) </br>
+&emsp; <input type="checkbox"> 1 block firm tofu </br>
 
 Heat oil in a pan. Add diced onion. (This is when I start cooking the millet.) Sprinkle some salt.  
 Add chopped tomatoes and eggplant (cut into cubes or long slices).  
@@ -54,10 +54,10 @@ Mix everything and let it warm through while you plate up the millet and topping
 
 ### 🥑 Toppings
 
-&emsp; ⬜ 1 avocado </br>
-&emsp; ⬜ 1 pickled chili pepper </br>
-&emsp; ⬜ a few olives </br>
-&emsp; ⬜ a handful of spinach </br>
+&emsp; <input type="checkbox"> 1 avocado </br>
+&emsp; <input type="checkbox"> 1 pickled chili pepper </br>
+&emsp; <input type="checkbox"> a few olives </br>
+&emsp; <input type="checkbox"> a handful of spinach </br>
 
 Mash the ripe avocado with a fork. Finely chop the chili and olives, and mix them with the avocado.  
 Serve it beautifully on a few spinach leaves — we eat with our eyes, too!

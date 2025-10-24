@@ -21,20 +21,20 @@ TranslationKey: turkish-pizza
 
 ### 🌿 Składniki
 
-&emsp; ⬜ 4 ziemniaki starte na tarce jarzynowej </br>
-&emsp; ⬜ 1 por pokrojony w krążki </br>
-&emsp; ⬜ 2 marchewki starte na tarce jarzynowej </br>
-&emsp; ⬜ 100 g świeżego, posiekanego szpinaku </br>
-&emsp; ⬜ ½ czerwonej papryki pokrojonej w kostkę </br>
-&emsp; ⬜ 4 jajka </br>
-&emsp; ⬜ 4 łyżki oleju lub oliwy </br>
-&emsp; ⬜ 4 łyżki mleka </br>
-&emsp; ⬜ 4 łyżki mąki </br>
-&emsp; ⬜ 2 łyżeczki proszku do pieczenia </br>
-&emsp; ⬜ 2 łyżeczki soli </br>
-&emsp; ⬜ 1 łyżeczka czarnego pieprzu </br>
-&emsp; ⬜ 50 g startego sera cheddar </br>
-&emsp; ⬜ sezam i czarnuszka (jeżeli ktoś nie lubi to może być bez) </br>
+&emsp; <input type="checkbox"> 4 ziemniaki starte na tarce jarzynowej </br>
+&emsp; <input type="checkbox"> 1 por pokrojony w krążki </br>
+&emsp; <input type="checkbox"> 2 marchewki starte na tarce jarzynowej </br>
+&emsp; <input type="checkbox"> 100 g świeżego, posiekanego szpinaku </br>
+&emsp; <input type="checkbox"> ½ czerwonej papryki pokrojonej w kostkę </br>
+&emsp; <input type="checkbox"> 4 jajka </br>
+&emsp; <input type="checkbox"> 4 łyżki oleju lub oliwy </br>
+&emsp; <input type="checkbox"> 4 łyżki mleka </br>
+&emsp; <input type="checkbox"> 4 łyżki mąki </br>
+&emsp; <input type="checkbox"> 2 łyżeczki proszku do pieczenia </br>
+&emsp; <input type="checkbox"> 2 łyżeczki soli </br>
+&emsp; <input type="checkbox"> 1 łyżeczka czarnego pieprzu </br>
+&emsp; <input type="checkbox"> 50 g startego sera cheddar </br>
+&emsp; <input type="checkbox"> sezam i czarnuszka (jeżeli ktoś nie lubi to może być bez) </br>
 
 ### 📝 Przygotowanie
 

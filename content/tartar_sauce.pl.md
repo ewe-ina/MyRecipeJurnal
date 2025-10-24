@@ -20,9 +20,9 @@ TranslationKey: tartar-sauce
 
 ### 🌿 Składniki
 
-&emsp; ⬜ ogórki kiszone </br>
-&emsp; ⬜ majonez </br>
-&emsp; ⬜ łyżka kwaśnej śmietany </br>
+&emsp; <input type="checkbox"> ogórki kiszone </br>
+&emsp; <input type="checkbox"> majonez </br>
+&emsp; <input type="checkbox"> łyżka kwaśnej śmietany </br>
 
 ### 📝 Przygotowanie
 

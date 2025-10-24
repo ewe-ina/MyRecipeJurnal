@@ -18,9 +18,9 @@ Because I had to carry four of them on my bike — and with regular cupcakes, th
 
 ### 🥥 Cream (for 4 jars)
 
-&emsp; ⬜ thick part from 1 can of coconut milk (mine was 85% coconut extract), chilled overnight </br>
-&emsp; ⬜ lemon jelly powder with agar (mine was already sweetened) </br>
-&emsp; ⬜ a few drops of blue food coloring (optional, I just had it on hand 😉) </br>
+&emsp; <input type="checkbox"> thick part from 1 can of coconut milk (mine was 85% coconut extract), chilled overnight </br>
+&emsp; <input type="checkbox"> lemon jelly powder with agar (mine was already sweetened) </br>
+&emsp; <input type="checkbox"> a few drops of blue food coloring (optional, I just had it on hand 😉) </br>
 
 Whip the chilled coconut cream (I used a hand mixer) in a tall bowl.  
 Gradually add the jelly powder and mix until smooth.  
@@ -34,14 +34,14 @@ Spoon the cream into 4 jars and pop them into the fridge.
 
 🔹 Oven: top-bottom heat, 200°C / 400°F, 18 min
 
-&emsp; ⬜ 2 very ripe bananas (the kind everyone keeps ignoring 😉) </br>
-&emsp; ⬜ ½ cup oil </br>
-&emsp; ⬜ 1 cup flour </br>
-&emsp; ⬜ 2 tbsp cocoa powder </br>
-&emsp; ⬜ 1 tsp baking soda </br>
-&emsp; ⬜ the rest of the coconut milk from the can </br>
-&emsp; ⬜ a big handful of blueberries </br>
-&emsp; ⬜ 4 squares of dark chocolate, chopped </br>
+&emsp; <input type="checkbox"> 2 very ripe bananas (the kind everyone keeps ignoring 😉) </br>
+&emsp; <input type="checkbox"> ½ cup oil </br>
+&emsp; <input type="checkbox"> 1 cup flour </br>
+&emsp; <input type="checkbox"> 2 tbsp cocoa powder </br>
+&emsp; <input type="checkbox"> 1 tsp baking soda </br>
+&emsp; <input type="checkbox"> the rest of the coconut milk from the can </br>
+&emsp; <input type="checkbox"> a big handful of blueberries </br>
+&emsp; <input type="checkbox"> 4 squares of dark chocolate, chopped </br>
 
 Mash the bananas with a fork in a bowl.  
 Add everything except the blueberries and chocolate.  
@@ -55,10 +55,10 @@ Let cool, then place one cupcake in each jar (without the paper liner 😉).
 
 ### 🍫 Topping & Extras
 
-&emsp; ⬜ ½ tbsp coconut oil </br>
-&emsp; ⬜ 8 squares dark chocolate </br>
-&emsp; ⬜ a handful of blueberries </br>
-&emsp; ⬜ a few chopped walnuts </br>
+&emsp; <input type="checkbox"> ½ tbsp coconut oil </br>
+&emsp; <input type="checkbox"> 8 squares dark chocolate </br>
+&emsp; <input type="checkbox"> a handful of blueberries </br>
+&emsp; <input type="checkbox"> a few chopped walnuts </br>
 
 In a small saucepan over low heat, melt the coconut oil, then add the chocolate.  
 Stir constantly until melted and smooth, then remove from heat.  

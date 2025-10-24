@@ -23,9 +23,9 @@ W sklepie były mocno przecenione, dość zmarnowane bakłażany. Jednego uratow
 
 ### 🍚 Kaszowy podkład
 
-&emsp; ⬜ 150 g kaszy jaglanej </br>
-&emsp; ⬜ woda </br>
-&emsp; ⬜ ciut soli </br>
+&emsp; <input type="checkbox"> 150 g kaszy jaglanej </br>
+&emsp; <input type="checkbox"> woda </br>
+&emsp; <input type="checkbox"> ciut soli </br>
 
 Naprawdę jestem leniwa w kuchni! Nie płuczę kaszy na zmianę zimną i gorącą wodą, nie wykonuję żadnych cudów na kiju 😉  
 Kaszę wsypuję do garnuszka, zalewam wrzącą wodą z czajnika na wysokość 2x ponad warstwę kaszy albo i ciut więcej, trochę soli, mały palnik, przykrywka, nawet mieszać nie trzeba.  
@@ -35,14 +35,14 @@ Kaszę wsypuję do garnuszka, zalewam wrzącą wodą z czajnika na wysokość 2x
 
 ### 🍆 Potrawka
 
-&emsp; ⬜ łyżka oleju </br>
-&emsp; ⬜ 1 cebula </br>
-&emsp; ⬜ sól </br>
-&emsp; ⬜ 2 pomidory </br>
-&emsp; ⬜ 1 bakłażan </br>
-&emsp; ⬜ trochę wody </br>
-&emsp; ⬜ przyprawa Knorr "do ziołowego kurczaka" 😉 </br>
-&emsp; ⬜ kostka tofu naturalnego
+&emsp; <input type="checkbox"> łyżka oleju </br>
+&emsp; <input type="checkbox"> 1 cebula </br>
+&emsp; <input type="checkbox"> sól </br>
+&emsp; <input type="checkbox"> 2 pomidory </br>
+&emsp; <input type="checkbox"> 1 bakłażan </br>
+&emsp; <input type="checkbox"> trochę wody </br>
+&emsp; <input type="checkbox"> przyprawa Knorr "do ziołowego kurczaka" 😉 </br>
+&emsp; <input type="checkbox"> kostka tofu naturalnego
 
 Na patelni rozgrzewamy olej. Wrzucamy pokrojoną w kostkę cebulę. (Teraz wstawiam kaszę.) Trochę soli.  
 Dorzucamy pokrojone w kostkę pomidory i bakłażana pokrojonego w kostkę lub podłużne cząstki.  
@@ -54,10 +54,10 @@ Mieszamy i niech jeszcze chwilkę się pogrzeje na patelni (w czasie, gdy na tal
 
 ### 🥑 Dodatki
 
-&emsp; ⬜ 1 awokado </br>
-&emsp; ⬜ 1 marynowana papryczka chili </br>
-&emsp; ⬜ kilka oliwek </br>
-&emsp; ⬜ garść szpinaku </br>
+&emsp; <input type="checkbox"> 1 awokado </br>
+&emsp; <input type="checkbox"> 1 marynowana papryczka chili </br>
+&emsp; <input type="checkbox"> kilka oliwek </br>
+&emsp; <input type="checkbox"> garść szpinaku </br>
 
 Dojrzałe awokado tuptamy widelcem. Papryczkę i oliwki drobno kroimy i mieszamy z awokado.  
 Wykładamy dla efektu na liściach szpinaku. Bo je się też oczami!

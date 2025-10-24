@@ -22,13 +22,13 @@ This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or 
 
 ### 🌿 Ingredients
 
-&emsp; ⬜ 400 ml soy milk </br>
-&emsp; ⬜ 1 tablespoon vinegar </br>
-&emsp; ⬜ 1 teaspoon lemon juice </br>
-&emsp; ⬜ 2 teaspoons baking soda </br>
-&emsp; ⬜ 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour) </br>
-&emsp; ⬜ 1 teaspoon salt </br>
-&emsp; ⬜ 2 tablespoons black cumin seeds (nigella seeds) </br>
+&emsp; <input type="checkbox"> 400 ml soy milk </br>
+&emsp; <input type="checkbox"> 1 tablespoon vinegar </br>
+&emsp; <input type="checkbox"> 1 teaspoon lemon juice </br>
+&emsp; <input type="checkbox"> 2 teaspoons baking soda </br>
+&emsp; <input type="checkbox"> 500 g flour (I used 100 g whole wheat graham flour and 400 g regular flour) </br>
+&emsp; <input type="checkbox"> 1 teaspoon salt </br>
+&emsp; <input type="checkbox"> 2 tablespoons black cumin seeds (nigella seeds) </br>
 
 ### 📝 Preparation
 

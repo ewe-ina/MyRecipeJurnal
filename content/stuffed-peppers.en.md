@@ -21,15 +21,15 @@ TranslationKey: stuffed-peppers
 
 ### 🌿 Ingredients
 
-&emsp; ⬜ red sweet peppers </br>
-&emsp; ⬜ mushrooms </br>
-&emsp; ⬜ onion </br>
-&emsp; ⬜ rice </br>
-&emsp; ⬜ favorite herbs – parsley, lovage, etc. </br>
-&emsp; ⬜ mozzarella ball </br>
-&emsp; ⬜ salt, pepper, oregano </br>
-&emsp; ⬜ oil </br>
-&emsp; ⬜ butter (for greasing the baking dish) </br>
+&emsp; <input type="checkbox"> red sweet peppers </br>
+&emsp; <input type="checkbox"> mushrooms </br>
+&emsp; <input type="checkbox"> onion </br>
+&emsp; <input type="checkbox"> rice </br>
+&emsp; <input type="checkbox"> favorite herbs – parsley, lovage, etc. </br>
+&emsp; <input type="checkbox"> mozzarella ball </br>
+&emsp; <input type="checkbox"> salt, pepper, oregano </br>
+&emsp; <input type="checkbox"> oil </br>
+&emsp; <input type="checkbox"> butter (for greasing the baking dish) </br>
 
 ### 📝 Preparation
 

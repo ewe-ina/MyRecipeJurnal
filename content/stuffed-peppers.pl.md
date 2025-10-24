@@ -21,15 +21,15 @@ TranslationKey: stuffed-peppers
 
 ### 🌿 Składniki
 
-&emsp; ⬜ czerwona, słodka papryka </br>
-&emsp; ⬜ pieczarki </br>
-&emsp; ⬜ cebula </br>
-&emsp; ⬜ ryż </br>
-&emsp; ⬜ ulubione zioła – natka pietruszki, lubczyk itp. </br>
-&emsp; ⬜ mozzarella w kulce </br>
-&emsp; ⬜ sól, pieprz, oregano </br>
-&emsp; ⬜ olej </br>
-&emsp; ⬜ masło do wysmarowania naczynia </br>
+&emsp; <input type="checkbox"> czerwona, słodka papryka </br>
+&emsp; <input type="checkbox"> pieczarki </br>
+&emsp; <input type="checkbox"> cebula </br>
+&emsp; <input type="checkbox"> ryż </br>
+&emsp; <input type="checkbox"> ulubione zioła – natka pietruszki, lubczyk itp. </br>
+&emsp; <input type="checkbox"> mozzarella w kulce </br>
+&emsp; <input type="checkbox"> sól, pieprz, oregano </br>
+&emsp; <input type="checkbox"> olej </br>
+&emsp; <input type="checkbox"> masło do wysmarowania naczynia </br>
 
 ### 📝 Przygotowanie
 

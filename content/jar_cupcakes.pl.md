@@ -18,9 +18,9 @@ Bo muszę 4 przewieźć rowerem, a ze standardowymi to spore ryzyko 😉
 
 ### 🥥 Krem (na 4 desery)
 
-&emsp; ⬜ gęsta część z 1 puszki mleka kokosowego (u mnie ekstrakt kokosowy 85%), schłodzonego min. przez noc w lodówce </br>
-&emsp; ⬜ galaretka na agarze (miałam cytrynową, już z cukrem) </br>
-&emsp; ⬜ kilka kropel barwnika spożywczego niebieskiego (bo był pod ręką 😉) </br>
+&emsp; <input type="checkbox"> gęsta część z 1 puszki mleka kokosowego (u mnie ekstrakt kokosowy 85%), schłodzonego min. przez noc w lodówce </br>
+&emsp; <input type="checkbox"> galaretka na agarze (miałam cytrynową, już z cukrem) </br>
+&emsp; <input type="checkbox"> kilka kropel barwnika spożywczego niebieskiego (bo był pod ręką 😉) </br>
 
 Śmietankę kokosową ubijamy (mikserem) w wysokim naczyniu. Dosypujemy po trochu galaretki w proszku i miksujemy do połączenia.  
 Dodajemy kilka kropel barwnika (albo i nie) i mieszamy łyżką.  
@@ -33,14 +33,14 @@ Rozkładamy do 4 słoików i wstawiamy do lodówki.
 
 🔹 Piekarnik: góra-dół, 200°C, 18 min
 
-&emsp; ⬜ 2 mocno dojrzałe banany (te, których nikt już nie chce jeść 😉) </br>
-&emsp; ⬜ ½ szklanki oleju </br>
-&emsp; ⬜ 1 szklanka mąki </br>
-&emsp; ⬜ 2 łyżki kakao </br>
-&emsp; ⬜ 1 łyżeczka sody oczyszczonej </br>
-&emsp; ⬜ reszta mleka kokosowego z puszki </br>
-&emsp; ⬜ duża garść borówek </br>
-&emsp; ⬜ 4 posiekane kostki gorzkiej czekolady </br>
+&emsp; <input type="checkbox"> 2 mocno dojrzałe banany (te, których nikt już nie chce jeść 😉) </br>
+&emsp; <input type="checkbox"> ½ szklanki oleju </br>
+&emsp; <input type="checkbox"> 1 szklanka mąki </br>
+&emsp; <input type="checkbox"> 2 łyżki kakao </br>
+&emsp; <input type="checkbox"> 1 łyżeczka sody oczyszczonej </br>
+&emsp; <input type="checkbox"> reszta mleka kokosowego z puszki </br>
+&emsp; <input type="checkbox"> duża garść borówek </br>
+&emsp; <input type="checkbox"> 4 posiekane kostki gorzkiej czekolady </br>
 
 Do miski wrzucamy banany i tuptamy je widelcem.  
 Dodajemy wszystko poza borówkami i czekoladą, mieszamy mikserem tylko do połączenia składników.
@@ -55,10 +55,10 @@ Wkładamy po jednej babeczce do słoika (bez papierka 😉).
 
 ### 🍫 Polewa i dodatki
 
-&emsp; ⬜ ½ łyżki oleju kokosowego </br>
-&emsp; ⬜ 8 kostek gorzkiej czekolady </br>
-&emsp; ⬜ garść borówek </br>
-&emsp; ⬜ kilka posiekanych orzechów włoskich </br>
+&emsp; <input type="checkbox"> ½ łyżki oleju kokosowego </br>
+&emsp; <input type="checkbox"> 8 kostek gorzkiej czekolady </br>
+&emsp; <input type="checkbox"> garść borówek </br>
+&emsp; <input type="checkbox"> kilka posiekanych orzechów włoskich </br>
 
 W garnuszku na małym ogniu roztapiany olej kokosowy, dorzucamy kostki czekolady.  
 Ciągle mieszamy i jak tylko czekolada się rozpuści, ściągamy garnuszek z palnika.  

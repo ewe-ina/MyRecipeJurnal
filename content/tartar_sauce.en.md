@@ -20,9 +20,9 @@ TranslationKey: tartar-sauce
 
 ### 🌿 Ingredients
 
-&emsp; ⬜ pickled cucumbers </br>
-&emsp; ⬜ mayonnaise </br>
-&emsp; ⬜ 1 tablespoon sour cream </br>
+&emsp; <input type="checkbox"> pickled cucumbers </br>
+&emsp; <input type="checkbox"> mayonnaise </br>
+&emsp; <input type="checkbox"> 1 tablespoon sour cream </br>
 
 ### 📝 Preparation
 

@@ -25,17 +25,17 @@ A lightning-fast meal made on the fly ⚡
 
 #### 🍜 Pasta
 
-&emsp; ⬜ your favorite pasta (I used whole grain – “łazanki” noodles would be perfect 🙂) </br>
+&emsp; <input type="checkbox"> your favorite pasta (I used whole grain – “łazanki” noodles would be perfect 🙂) </br>
 
 #### 🥬 The Stir-fry
 
-&emsp; ⬜ 1 tbsp oil </br>
-&emsp; ⬜ 1/2 onion </br>
-&emsp; ⬜ salt </br>
-&emsp; ⬜ 1/2 head young cabbage </br>
-&emsp; ⬜ a bit of water </br>
-&emsp; ⬜ 1 block firm tofu </br>
-&emsp; ⬜ spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>
+&emsp; <input type="checkbox"> 1 tbsp oil </br>
+&emsp; <input type="checkbox"> 1/2 onion </br>
+&emsp; <input type="checkbox"> salt </br>
+&emsp; <input type="checkbox"> 1/2 head young cabbage </br>
+&emsp; <input type="checkbox"> a bit of water </br>
+&emsp; <input type="checkbox"> 1 block firm tofu </br>
+&emsp; <input type="checkbox"> spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>
 
 ### 📝 Preparation
 
