@@ -8,8 +8,6 @@ TranslationKey: mini-tortillas
 
 ---
 
-## Mini tortille
-
 ![def]
 
 Kiedy nie masz czasu na gotowanie...
@@ -20,13 +18,13 @@ Kiedy nie masz czasu na gotowanie...
 
 ---
 
-### 🌿 Składniki
+#### 🌿 Składniki
 
-#### 🌯 Mini tortilla wraps (8 szt.)
+##### 🌯 Mini tortilla wraps (8 szt.)
 
 (Tak, wspomogłam się gotowcem. Bez oleju palmowego w składzie!)
 
-#### 🍚 Wsad
+##### 🍚 Wsad
 
 &emsp; <input type="checkbox"> ~ 200 g ryżu naturalnego </br>
 &emsp; <input type="checkbox"> 1/2 łyżeczki soli </br>
@@ -35,13 +33,13 @@ Kiedy nie masz czasu na gotowanie...
 &emsp; <input type="checkbox"> 1/2 czerwonej papryki </br>
 &emsp; <input type="checkbox"> mix przypraw do kuchni meksykańskiej </br>
 
-#### 🥬 Dodatki
+##### 🥬 Dodatki
 
 &emsp; <input type="checkbox"> liście sałaty </br>
 &emsp; <input type="checkbox"> 1 marchew </br>
 &emsp; <input type="checkbox"> trochę szczypiorku </br>
 
-### 📝 Przygotowanie
+#### 📝 Przygotowanie
 
 1. Ryż gotujemy w osolonej wodzie.
 2. Do drugiego garnka wlewamy fasolę z zalewą, dorzucamy pokrojone cebulki i pokrojoną w kostkę paprykę.

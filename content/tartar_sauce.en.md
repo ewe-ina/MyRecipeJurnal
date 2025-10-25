@@ -8,8 +8,6 @@ TranslationKey: tartar-sauce
 
 ---
 
-## Tartar Sauce
-
 <!-- ![def] -->
 
 🕐 Prep time: 10 min + 24h in the fridge
@@ -18,13 +16,13 @@ TranslationKey: tartar-sauce
 
 ---
 
-### 🌿 Ingredients
+#### 🌿 Ingredients
 
 &emsp; <input type="checkbox"> pickled cucumbers </br>
 &emsp; <input type="checkbox"> mayonnaise </br>
 &emsp; <input type="checkbox"> 1 tablespoon sour cream </br>
 
-### 📝 Preparation
+#### 📝 Preparation
 
 1. Chop the pickled cucumbers into small cubes.
 2. Add mayonnaise and sour cream, then mix well.

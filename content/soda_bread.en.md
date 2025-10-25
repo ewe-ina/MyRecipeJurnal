@@ -8,8 +8,6 @@ TranslationKey: soda-bread
 
 ---
 
-## Soda Bread
-
 ![def]
 
 This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or sourdough starters are hard to find — a great alternative!
@@ -20,7 +18,7 @@ This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or 
 🔹 Loaf pan: 26 x 11 cm </br>
 🔹 Oven: top and bottom heat, 200°C (400°F), 40 min + 10 min covered with foil
 
-### 🌿 Ingredients
+#### 🌿 Ingredients
 
 &emsp; <input type="checkbox"> 400 ml soy milk </br>
 &emsp; <input type="checkbox"> 1 tablespoon vinegar </br>
@@ -30,7 +28,7 @@ This bread is really tasty, simple, and quick to make ❤ Perfect when yeast or 
 &emsp; <input type="checkbox"> 1 teaspoon salt </br>
 &emsp; <input type="checkbox"> 2 tablespoons black cumin seeds (nigella seeds) </br>
 
-### 📝 Preparation
+#### 📝 Preparation
 
 1. Pour the soy milk and vinegar into a bowl. Let it sit for a moment until it curdles and turns into a buttermilk substitute.
 2. Add lemon juice and baking soda — the mixture will fizz a bit 🙂

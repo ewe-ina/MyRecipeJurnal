@@ -8,8 +8,6 @@ TranslationKey: eggplant-tofu-stew
 
 ---
 
-## Eggplant and Tofu Stew
-
 ![def]
 
 I found some sad-looking eggplants on sale and decided to rescue one. The tofu joined the adventure mid-cooking 😉
@@ -21,7 +19,7 @@ I found some sad-looking eggplants on sale and decided to rescue one. The tofu j
 
 ---
 
-### 🍚 Millet Base
+#### 🍚 Millet Base
 
 &emsp; <input type="checkbox"> 150 g millet </br>
 &emsp; <input type="checkbox"> water </br>
@@ -33,7 +31,7 @@ I just pour the millet into a small pot, cover it with boiling water from the ke
 
 ---
 
-### 🍆 The Stew
+#### 🍆 The Stew
 
 &emsp; <input type="checkbox"> 1 tbsp oil </br>
 &emsp; <input type="checkbox"> 1 onion </br>
@@ -52,7 +50,7 @@ Mix everything and let it warm through while you plate up the millet and topping
 
 ---
 
-### 🥑 Toppings
+#### 🥑 Toppings
 
 &emsp; <input type="checkbox"> 1 avocado </br>
 &emsp; <input type="checkbox"> 1 pickled chili pepper </br>

@@ -8,15 +8,13 @@ TranslationKey: jar-cupcakes
 
 ---
 
-## Jar Cupcakes
-
 ![def]
 
 Because I had to carry four of them on my bike — and with regular cupcakes, that’s a pretty risky mission 😉  
 
 ---
 
-### 🥥 Cream (for 4 jars)
+#### 🥥 Cream (for 4 jars)
 
 &emsp; <input type="checkbox"> thick part from 1 can of coconut milk (mine was 85% coconut extract), chilled overnight </br>
 &emsp; <input type="checkbox"> lemon jelly powder with agar (mine was already sweetened) </br>
@@ -30,7 +28,7 @@ Spoon the cream into 4 jars and pop them into the fridge.
 
 ---
 
-### 🍌 Cupcakes – about 10 pieces  
+#### 🍌 Cupcakes – about 10 pieces  
 
 🔹 Oven: top-bottom heat, 200°C / 400°F, 18 min
 
@@ -53,7 +51,7 @@ Let cool, then place one cupcake in each jar (without the paper liner 😉).
 
 ---
 
-### 🍫 Topping & Extras
+#### 🍫 Topping & Extras
 
 &emsp; <input type="checkbox"> ½ tbsp coconut oil </br>
 &emsp; <input type="checkbox"> 8 squares dark chocolate </br>

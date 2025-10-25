@@ -8,8 +8,6 @@ TranslationKey: young-cabbage-tofu
 
 ---
 
-## Young Cabbage and Tofu
-
 ![def]
 
 A lightning-fast meal made on the fly ⚡
@@ -21,13 +19,13 @@ A lightning-fast meal made on the fly ⚡
 
 ---
 
-### 🌿 Ingredients
+#### 🌿 Ingredients
 
-#### 🍜 Pasta
+##### 🍜 Pasta
 
 &emsp; <input type="checkbox"> your favorite pasta (I used whole grain – “łazanki” noodles would be perfect 🙂) </br>
 
-#### 🥬 The Stir-fry
+##### 🥬 The Stir-fry
 
 &emsp; <input type="checkbox"> 1 tbsp oil </br>
 &emsp; <input type="checkbox"> 1/2 onion </br>
@@ -37,7 +35,7 @@ A lightning-fast meal made on the fly ⚡
 &emsp; <input type="checkbox"> 1 block firm tofu </br>
 &emsp; <input type="checkbox"> spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>
 
-### 📝 Preparation
+#### 📝 Preparation
 
 1. Heat oil in a pan.  
 2. Add diced onion and a pinch of salt.  

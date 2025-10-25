@@ -8,8 +8,6 @@ TranslationKey: stuffed-peppers
 
 ---
 
-## Papryka faszerowana
-
 <!-- ![def] -->
 
 🕐 Czas przygotowania ok. 1 godz. 15 min
@@ -19,7 +17,7 @@ TranslationKey: stuffed-peppers
 
 ---
 
-### 🌿 Składniki
+#### 🌿 Składniki
 
 &emsp; <input type="checkbox"> czerwona, słodka papryka </br>
 &emsp; <input type="checkbox"> pieczarki </br>
@@ -31,7 +29,7 @@ TranslationKey: stuffed-peppers
 &emsp; <input type="checkbox"> olej </br>
 &emsp; <input type="checkbox"> masło do wysmarowania naczynia </br>
 
-### 📝 Przygotowanie
+#### 📝 Przygotowanie
 
 Z papryki ściąć wierzch z ogonkiem i wyczyścić środek.  
 Ryż ugotować na sypko.  

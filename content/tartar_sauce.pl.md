@@ -8,8 +8,6 @@ TranslationKey: tartar-sauce
 
 ---
 
-## Sos tatarski
-
 <!-- ![def] -->
 
 🔸 Czas przygotowania: 10 min + 24h w lodówce
@@ -18,13 +16,13 @@ TranslationKey: tartar-sauce
 
 ---
 
-### 🌿 Składniki
+#### 🌿 Składniki
 
 &emsp; <input type="checkbox"> ogórki kiszone </br>
 &emsp; <input type="checkbox"> majonez </br>
 &emsp; <input type="checkbox"> łyżka kwaśnej śmietany </br>
 
-### 📝 Przygotowanie
+#### 📝 Przygotowanie
 
 1. Ogórki pokroić w drobną kostkę.  
 2. Dodać majonez i łyżkę kwaśnej śmietany, a następnie dokładnie wymieszać.  

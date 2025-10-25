@@ -8,8 +8,6 @@ TranslationKey: stuffed-peppers
 
 ---
 
-## Stuffed Peppers
-
 <!-- ![def] -->
 
 🕐 Prep time: around 1 hr 15 min
@@ -19,7 +17,7 @@ TranslationKey: stuffed-peppers
   
 ---
 
-### 🌿 Ingredients
+#### 🌿 Ingredients
 
 &emsp; <input type="checkbox"> red sweet peppers </br>
 &emsp; <input type="checkbox"> mushrooms </br>
@@ -31,7 +29,7 @@ TranslationKey: stuffed-peppers
 &emsp; <input type="checkbox"> oil </br>
 &emsp; <input type="checkbox"> butter (for greasing the baking dish) </br>
 
-### 📝 Preparation
+#### 📝 Preparation
 
 Slice off the tops of the peppers (keep the stems) and remove the seeds.  
 Cook the rice until fluffy.  

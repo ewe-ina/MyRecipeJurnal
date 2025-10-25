@@ -8,8 +8,6 @@ TranslationKey: young-cabbage-tofu
 
 ---
 
-## Młoda kapustka i tofu
-
 ![def]
 
 Danie ekspres w locie 🚀
@@ -21,13 +19,13 @@ Danie ekspres w locie 🚀
 
 ---
 
-### 🌿 Składniki
+#### 🌿 Składniki
 
-#### 🍜 Makaron
+##### 🍜 Makaron
 
 &emsp; <input type="checkbox"> ulubiony makaron (u mnie razowy, ten łazankowy by super pasował 🙂) </br>
 
-#### 🥬 Potrawka
+##### 🥬 Potrawka
 
 &emsp; <input type="checkbox"> 1 łyżka oleju </br>
 &emsp; <input type="checkbox"> 1/2 cebuli </br>
@@ -37,7 +35,7 @@ Danie ekspres w locie 🚀
 &emsp; <input type="checkbox"> 1 kostka tofu naturalnego </br>
 &emsp; <input type="checkbox"> przyprawy (u mnie ostra papryka, kurkuma, sól i coś brązowego 😛) </br>
 
-### 📝 Przygotowanie
+#### 📝 Przygotowanie
 
 1. Na patelni rozgrzewamy olej.  
 2. Wrzucamy pokrojoną w kostkę cebulę. Trochę soli.  

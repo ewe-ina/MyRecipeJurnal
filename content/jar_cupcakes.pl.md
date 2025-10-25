@@ -8,15 +8,13 @@ TranslationKey: jar-cupcakes
 
 ---
 
-## Słoikowe babeczki
-
 ![def]
 
 Bo muszę 4 przewieźć rowerem, a ze standardowymi to spore ryzyko 😉
 
 ---
 
-### 🥥 Krem (na 4 desery)
+#### 🥥 Krem (na 4 desery)
 
 &emsp; <input type="checkbox"> gęsta część z 1 puszki mleka kokosowego (u mnie ekstrakt kokosowy 85%), schłodzonego min. przez noc w lodówce </br>
 &emsp; <input type="checkbox"> galaretka na agarze (miałam cytrynową, już z cukrem) </br>
@@ -29,7 +27,7 @@ Rozkładamy do 4 słoików i wstawiamy do lodówki.
 
 ---
 
-### 🍌 Babeczki – ok. 10 sztuk
+#### 🍌 Babeczki – ok. 10 sztuk
 
 🔹 Piekarnik: góra-dół, 200°C, 18 min
 
@@ -53,7 +51,7 @@ Wkładamy po jednej babeczce do słoika (bez papierka 😉).
 
 ---
 
-### 🍫 Polewa i dodatki
+#### 🍫 Polewa i dodatki
 
 &emsp; <input type="checkbox"> ½ łyżki oleju kokosowego </br>
 &emsp; <input type="checkbox"> 8 kostek gorzkiej czekolady </br>

@@ -8,8 +8,6 @@ TranslationKey: turkish-pizza
 
 ---
 
-## Turecka pizza
-
 <!-- ![def] -->
 
 🕐 Czas przygotowania ok. 1 godz. 10 min
@@ -19,7 +17,7 @@ TranslationKey: turkish-pizza
 
 ---
 
-### 🌿 Składniki
+#### 🌿 Składniki
 
 &emsp; <input type="checkbox"> 4 ziemniaki starte na tarce jarzynowej </br>
 &emsp; <input type="checkbox"> 1 por pokrojony w krążki </br>
@@ -36,7 +34,7 @@ TranslationKey: turkish-pizza
 &emsp; <input type="checkbox"> 50 g startego sera cheddar </br>
 &emsp; <input type="checkbox"> sezam i czarnuszka (jeżeli ktoś nie lubi to może być bez) </br>
 
-### 📝 Przygotowanie
+#### 📝 Przygotowanie
 
 Jajka wymieszać rózgą lub mikserem z olejem, dodać mąkę, a na końcu mleko.  
 Wsypać proszek do pieczenia, sól i pieprz.  

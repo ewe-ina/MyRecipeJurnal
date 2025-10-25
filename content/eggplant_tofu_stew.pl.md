@@ -8,8 +8,6 @@ TranslationKey: eggplant-tofu-stew
 
 ---
 
-## Potrawka z bakłażana i tofu
-
 ![def]
 
 W sklepie były mocno przecenione, dość zmarnowane bakłażany. Jednego uratowałam. Tofu wpadło w rękę w trakcie gotowania.
@@ -21,7 +19,7 @@ W sklepie były mocno przecenione, dość zmarnowane bakłażany. Jednego uratow
 
 ---
 
-### 🍚 Kaszowy podkład
+#### 🍚 Kaszowy podkład
 
 &emsp; <input type="checkbox"> 150 g kaszy jaglanej </br>
 &emsp; <input type="checkbox"> woda </br>
@@ -33,7 +31,7 @@ Kaszę wsypuję do garnuszka, zalewam wrzącą wodą z czajnika na wysokość 2x
 
 ---
 
-### 🍆 Potrawka
+#### 🍆 Potrawka
 
 &emsp; <input type="checkbox"> łyżka oleju </br>
 &emsp; <input type="checkbox"> 1 cebula </br>
@@ -52,7 +50,7 @@ Mieszamy i niech jeszcze chwilkę się pogrzeje na patelni (w czasie, gdy na tal
 
 ---
 
-### 🥑 Dodatki
+#### 🥑 Dodatki
 
 &emsp; <input type="checkbox"> 1 awokado </br>
 &emsp; <input type="checkbox"> 1 marynowana papryczka chili </br>

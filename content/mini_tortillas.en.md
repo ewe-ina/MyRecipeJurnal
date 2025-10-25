@@ -8,8 +8,6 @@ TranslationKey: mini-tortillas
 
 ---
 
-## Mini Tortillas
-
 ![def]
 
 When you’re short on time...
@@ -20,13 +18,13 @@ When you’re short on time...
 
 ---
 
-### 🌿 Ingredients
+#### 🌿 Ingredients
 
-#### 🌯 Mini tortilla wraps (8 pcs)
+##### 🌯 Mini tortilla wraps (8 pcs)
 
 (Yes, I used store-bought ones — but at least they’re palm oil–free!)
 
-#### 🍚 Filling
+##### 🍚 Filling
 
 &emsp; <input type="checkbox"> ~200 g brown rice </br>
 &emsp; <input type="checkbox"> 1/2 tsp salt </br>
@@ -35,13 +33,13 @@ When you’re short on time...
 &emsp; <input type="checkbox"> 1/2 red bell pepper </br>
 &emsp; <input type="checkbox"> a mix of Mexican-style spices </br>
 
-#### 🥬 Toppings
+##### 🥬 Toppings
 
 &emsp; <input type="checkbox"> lettuce leaves </br>
 &emsp; <input type="checkbox"> 1 carrot </br>
 &emsp; <input type="checkbox"> a bit of chives </br>
 
-### 📝 Preparation
+#### 📝 Preparation
 
 1. Cook the rice in salted water.
 2. In another pot, pour in the beans with their liquid, add chopped onions and diced bell pepper.
