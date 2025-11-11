@@ -17,7 +17,7 @@ import json
 from PIL import Image
 
 SRC_DIR = 'content/static/images'
-DST_DIR = 'output/static/images/processed' # Dest dir for generated thumbnails
+DST_DIR = 'content/static/images/processed' # Dest dir for generated thumbnails
 THUMB_SIZE = (300, 200)
 JSON_FILE = 'content/thumbs.json' # JSON file to store thumbnail data
 
