@@ -1,10 +1,10 @@
-Title: Sos tatarski
-Date: 2021-08-04
-Slug: tartar-sauce
-Summary: Klasyczny sos tatarski – prosty, wyrazisty i pyszny dodatek do wielu potraw.
-Author: Mariola Walkusz
-Lang: pl
-TranslationKey: tartar-sauce
+Title: Sos tatarski  
+Date: 2021-08-04  
+Slug: tartar-sauce  
+Summary: Klasyczny sos tatarski – prosty, wyrazisty i pyszny dodatek do wielu potraw.  
+Author: Mariola Walkusz  
+Lang: pl  
+TranslationKey: tartar-sauce  
 
 ---
 

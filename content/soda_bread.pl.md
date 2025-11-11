@@ -1,10 +1,10 @@
-Title: Chleb na sodzie
-Date: 2020-04-11
-Slug: soda-bread
-Summary: Easy and delicious vegan soda bread – no yeast or sourdough needed.
-Author: Ewelina Walkusz
-Lang: pl
-TranslationKey: soda-bread
+Title: Chleb na sodzie  
+Date: 2020-04-11  
+Slug: soda-bread  
+Summary: Easy and delicious vegan soda bread – no yeast or sourdough needed.  
+Author: Ewelina Walkusz  
+Lang: pl  
+TranslationKey: soda-bread  
 
 ---
 
@@ -18,7 +18,7 @@ Jest naprawdę smaczny a przy tym prosty i szybki w wykonaniu ❤ A w czasach, g
 🔹 Foremka: 26 x 11 cm </br>
 🔹 Piekarnik: góra-dół, 200 st.C, 40 min + 10 pod folią aluminiową
 
-#### 🌿 Składniki
+#### Składniki
 
 &emsp; <input type="checkbox"> 400 ml mleka sojowego </br>
 &emsp; <input type="checkbox"> 1 łyżka octu </br>
@@ -28,7 +28,7 @@ Jest naprawdę smaczny a przy tym prosty i szybki w wykonaniu ❤ A w czasach, g
 &emsp; <input type="checkbox"> 1 teaspoon salt </br>
 &emsp; <input type="checkbox"> 2 tablespoons black cumin seeds (nigella seeds) </br>
 
-#### 📝 Przygotowanie
+#### Przygotowanie
 
 1. Do miski wlewamy mleko i ocet. Odstawiamy na chwilkę, mleko się zetnie i będziemy mieć „maślankę”.
 2. Dodajemy sok z cytryny i sodę – płyn będzie trochę bąbelkować 🙂

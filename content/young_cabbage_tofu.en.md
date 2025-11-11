@@ -1,10 +1,10 @@
-Title: Young Cabbage and Tofu
-Date: 2019-05-23
-Slug: young-cabbage-tofu
-Summary: A quick and easy young cabbage stir-fry with tofu – light, flavorful, and done in minutes!
-Author: Ewelina Walkusz
-Lang: en
-TranslationKey: young-cabbage-tofu
+Title: Young Cabbage and Tofu  
+Date: 2019-05-23  
+Slug: young-cabbage-tofu  
+Summary: A quick and easy young cabbage stir-fry with tofu – light, flavorful, and done in minutes!  
+Author: Ewelina Walkusz  
+Lang: en  
+TranslationKey: young-cabbage-tofu  
 
 ---
 
@@ -19,7 +19,7 @@ A lightning-fast meal made on the fly ⚡
 
 ---
 
-#### 🌿 Ingredients
+#### Ingredients
 
 ##### 🍜 Pasta
 
@@ -35,7 +35,7 @@ A lightning-fast meal made on the fly ⚡
 &emsp; <input type="checkbox"> 1 block firm tofu </br>
 &emsp; <input type="checkbox"> spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>
 
-#### 📝 Preparation
+#### Preparation
 
 1. Heat oil in a pan.  
 2. Add diced onion and a pinch of salt.  

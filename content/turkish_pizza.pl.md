@@ -1,10 +1,10 @@
-Title: Turecka pizza
-Date: 2021-08-01
+Title: Turecka pizza  
+Date: 2021-08-01  
 Slug: turkish-pizza  
-Summary: Warzywna „turecka pizza” z ziemniakami, porem i szpinakiem – prosta, sycąca i pyszna na ciepło i na zimno.
-Author: Mariola Walkusz
-Lang: pl
-TranslationKey: turkish-pizza
+Summary: Warzywna „turecka pizza” z ziemniakami, porem i szpinakiem – prosta, sycąca i pyszna na ciepło i na zimno.  
+Author: Mariola Walkusz  
+Lang: pl  
+TranslationKey: turkish-pizza  
 
 ---
 
@@ -13,11 +13,11 @@ TranslationKey: turkish-pizza
 🕐 Czas przygotowania ok. 1 godz. 10 min
 
 ⭐ 4 porcje </br>
-⭐ Piekarnik: 180°C (góra-dół)
+⭐ Piekarnik: 180°C (góra-dół) </br>
 
 ---
 
-#### 🌿 Składniki
+#### Składniki
 
 &emsp; <input type="checkbox"> 4 ziemniaki starte na tarce jarzynowej </br>
 &emsp; <input type="checkbox"> 1 por pokrojony w krążki </br>
@@ -34,7 +34,7 @@ TranslationKey: turkish-pizza
 &emsp; <input type="checkbox"> 50 g startego sera cheddar </br>
 &emsp; <input type="checkbox"> sezam i czarnuszka (jeżeli ktoś nie lubi to może być bez) </br>
 
-#### 📝 Przygotowanie
+#### Przygotowanie
 
 Jajka wymieszać rózgą lub mikserem z olejem, dodać mąkę, a na końcu mleko.  
 Wsypać proszek do pieczenia, sól i pieprz.  

@@ -1,10 +1,10 @@
-Title: Potrawka z bakłażana i tofu
-Date: 2019-05-15
-Slug: eggplant-tofu-stew
-Summary: Prosta, szybka i sycąca potrawka z bakłażana i tofu – idealna z kaszą jaglaną.
-Author: Ewelina Walkusz
-Lang: pl
-TranslationKey: eggplant-tofu-stew
+Title: Potrawka z bakłażana i tofu  
+Date: 2019-05-15  
+Slug: eggplant-tofu-stew  
+Summary: Prosta, szybka i sycąca potrawka z bakłażana i tofu – idealna z kaszą jaglaną.  
+Author: Ewelina Walkusz  
+Lang: pl  
+TranslationKey: eggplant-tofu-stew  
 
 ---
 

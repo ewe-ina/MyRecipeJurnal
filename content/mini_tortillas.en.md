@@ -1,10 +1,10 @@
-Title: Mini Tortillas
-Date: 2019-05-25
-Slug: mini-tortillas
-Summary: Quick and tasty mini tortillas with rice, beans, and veggies — perfect for lunch or a grab-and-go jar meal.
-Author: Ewelina Walkusz
-Lang: en
-TranslationKey: mini-tortillas
+Title: Mini Tortillas  
+Date: 2019-05-25  
+Slug: mini-tortillas  
+Summary: Quick and tasty mini tortillas with rice, beans, and veggies — perfect for lunch or a grab-and-go jar meal.  
+Author: Ewelina Walkusz  
+Lang: en  
+TranslationKey: mini-tortillas  
 
 ---
 
@@ -18,7 +18,7 @@ When you’re short on time...
 
 ---
 
-#### 🌿 Ingredients
+#### Ingredients
 
 ##### 🌯 Mini tortilla wraps (8 pcs)
 
@@ -39,7 +39,7 @@ When you’re short on time...
 &emsp; <input type="checkbox"> 1 carrot </br>
 &emsp; <input type="checkbox"> a bit of chives </br>
 
-#### 📝 Preparation
+#### Preparation
 
 1. Cook the rice in salted water.
 2. In another pot, pour in the beans with their liquid, add chopped onions and diced bell pepper.
@@ -48,9 +48,9 @@ When you’re short on time...
 5. Add the spice mix and stir in the rice. (I started by layering a bit of rice in my jar, added carrot slices, poured over the bean mixture, and sprinkled with chives — worked perfectly!), mix everything and remove from heat.
 6. Warm the tortillas on a dry, hot pan (just a few seconds per side). Lay down a lettuce leaf, add a couple of carrot strips, spoon in the rice-bean mix, and sprinkle with chives.  
 
-And just like that — another quick lunch is ready 😉  
-
 ---
+
+And just like that — another quick lunch is ready 😉  
 
 Enjoy! 💚
 

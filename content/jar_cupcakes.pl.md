@@ -1,10 +1,10 @@
-Title: Słoikowe babeczki
-Date: 2019-05-11
-Slug: jar-cupcakes
-Summary: Domowe babeczki z bananami, borówkami i czekoladą – zapakowane w słoiki, idealne w podróży lub na piknik!
-Author: Ewelina Walkusz
-Lang: pl
-TranslationKey: jar-cupcakes
+Title: Słoikowe babeczki  
+Date: 2019-05-11  
+Slug: jar-cupcakes  
+Summary: Domowe babeczki z bananami, borówkami i czekoladą – zapakowane w słoiki, idealne w podróży lub na piknik!  
+Author: Ewelina Walkusz  
+Lang: pl  
+TranslationKey: jar-cupcakes  
 
 ---
 

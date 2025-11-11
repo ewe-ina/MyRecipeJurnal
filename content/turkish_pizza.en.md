@@ -1,10 +1,10 @@
-Title: Turkish Pizza
-Date: 2021-08-04
-Slug: turkish-pizza
-Summary: A colorful veggie “Turkish pizza” with potatoes, leek, and spinach – easy, filling, and delicious hot or cold.
-Author: Mariola Walkusz
-Lang: en
-TranslationKey: turkish-pizza
+Title: Turkish Pizza  
+Date: 2021-08-04  
+Slug: turkish-pizza  
+Summary: A colorful veggie “Turkish pizza” with potatoes, leek, and spinach – easy, filling, and delicious hot or cold.  
+Author: Mariola Walkusz  
+Lang: en  
+TranslationKey: turkish-pizza  
 
 ---
 
@@ -17,7 +17,7 @@ TranslationKey: turkish-pizza
 
 ---
 
-#### 🌿 Ingredients
+#### Ingredients
 
 &emsp; <input type="checkbox"> 4 potatoes, grated </br>
 &emsp; <input type="checkbox"> 1 leek, sliced into rings </br>
@@ -34,7 +34,7 @@ TranslationKey: turkish-pizza
 &emsp; <input type="checkbox"> 50 g grated cheddar cheese </br>
 &emsp; <input type="checkbox"> sesame seeds and nigella seeds (optional) </br>
 
-#### 📝 Preparation
+#### Preparation
 
 Whisk the eggs with oil, then add flour and finally milk.  
 Stir in baking powder, salt, and pepper.  

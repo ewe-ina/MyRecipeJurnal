@@ -1,10 +1,10 @@
-Title: Tartar Sauce
-Date: 2021-08-04
-Slug: tartar-sauce
-Summary: Classic tartar sauce – simple, tangy, and the perfect companion for many dishes.
-Author: Mariola Walkusz
-Lang: en
-TranslationKey: tartar-sauce
+Title: Tartar Sauce  
+Date: 2021-08-04  
+Slug: tartar-sauce  
+Summary: Classic tartar sauce – simple, tangy, and the perfect companion for many dishes.  
+Author: Mariola Walkusz  
+Lang: en  
+TranslationKey: tartar-sauce  
 
 ---
 
@@ -12,17 +12,17 @@ TranslationKey: tartar-sauce
 
 🕐 Prep time: 10 min + 24h in the fridge
 
-⭐ Servings: about 4
+⭐ Servings: about 4 </br>
 
 ---
 
-#### 🌿 Ingredients
+#### Ingredients
 
 &emsp; <input type="checkbox"> pickled cucumbers </br>
 &emsp; <input type="checkbox"> mayonnaise </br>
 &emsp; <input type="checkbox"> 1 tablespoon sour cream </br>
 
-#### 📝 Preparation
+#### Preparation
 
 1. Chop the pickled cucumbers into small cubes.
 2. Add mayonnaise and sour cream, then mix well.

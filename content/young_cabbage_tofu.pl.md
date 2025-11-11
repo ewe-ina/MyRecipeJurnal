@@ -1,10 +1,10 @@
-Title: Młoda kapustka i tofu
-Date: 2019-05-23
-Slug: young-cabbage-tofu
-Summary: Danie ekspresowe z młodej kapusty i tofu – szybkie, lekkie i pyszne!
-Author: Ewelina Walkusz
-Lang: pl
-TranslationKey: young-cabbage-tofu
+Title: Młoda kapustka i tofu  
+Date: 2019-05-23  
+Slug: young-cabbage-tofu  
+Summary: Danie ekspresowe z młodej kapusty i tofu – szybkie, lekkie i pyszne!  
+Author: Ewelina Walkusz  
+Lang: pl  
+TranslationKey: young-cabbage-tofu  
 
 ---
 
@@ -19,7 +19,7 @@ Danie ekspres w locie 🚀
 
 ---
 
-#### 🌿 Składniki
+#### Składniki
 
 ##### 🍜 Makaron
 
@@ -35,7 +35,7 @@ Danie ekspres w locie 🚀
 &emsp; <input type="checkbox"> 1 kostka tofu naturalnego </br>
 &emsp; <input type="checkbox"> przyprawy (u mnie ostra papryka, kurkuma, sól i coś brązowego 😛) </br>
 
-#### 📝 Przygotowanie
+#### Przygotowanie
 
 1. Na patelni rozgrzewamy olej.  
 2. Wrzucamy pokrojoną w kostkę cebulę. Trochę soli.  

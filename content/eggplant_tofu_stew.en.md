@@ -1,10 +1,10 @@
-Title: Eggplant and Tofu Stew
-Date: 2019-05-15
-Slug: eggplant-tofu-stew
-Summary: A simple, hearty eggplant and tofu stew served with millet – cozy, quick, and full of flavor.
-Author: Ewelina Walkusz
-Lang: en
-TranslationKey: eggplant-tofu-stew
+Title: Eggplant and Tofu Stew  
+Date: 2019-05-15  
+Slug: eggplant-tofu-stew  
+Summary: A simple, hearty eggplant and tofu stew served with millet – cozy, quick, and full of flavor.  
+Author: Ewelina Walkusz  
+Lang: en  
+TranslationKey: eggplant-tofu-stew  
 
 ---
 

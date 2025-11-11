@@ -1,10 +1,10 @@
-Title: Mini tortille
-Date: 2019-05-25
-Slug: mini-tortillas
-Summary: Szybkie mini tortille z ryżem, fasolą i warzywami – idealne na obiad lub lunch do słoika.
-Author: Ewelina Walkusz
-Lang: pl
-TranslationKey: mini-tortillas
+Title: Mini tortille  
+Date: 2019-05-25  
+Slug: mini-tortillas  
+Summary: Szybkie mini tortille z ryżem, fasolą i warzywami – idealne na obiad lub lunch do słoika.  
+Author: Ewelina Walkusz  
+Lang: pl  
+TranslationKey: mini-tortillas  
 
 ---
 
@@ -18,7 +18,7 @@ Kiedy nie masz czasu na gotowanie...
 
 ---
 
-#### 🌿 Składniki
+#### Składniki
 
 ##### 🌯 Mini tortilla wraps (8 szt.)
 
@@ -39,7 +39,7 @@ Kiedy nie masz czasu na gotowanie...
 &emsp; <input type="checkbox"> 1 marchew </br>
 &emsp; <input type="checkbox"> trochę szczypiorku </br>
 
-#### 📝 Przygotowanie
+#### Przygotowanie
 
 1. Ryż gotujemy w osolonej wodzie.
 2. Do drugiego garnka wlewamy fasolę z zalewą, dorzucamy pokrojone cebulki i pokrojoną w kostkę paprykę.
@@ -49,9 +49,9 @@ Kiedy nie masz czasu na gotowanie...
 6. Tortille podgrzewamy na rozgrzanej, suchej patelni (kilka sekund na stronę),  
 kładziemy po liściu sałaty, 2 paseczki marchewki, na to nasz ryżowo-fasolowy mix, posypujemy szczypiorkiem.
 
-I znowu mamy szybki obiad 😉
-
 ---
+
+I znowu mamy szybki obiad 😉
 
 Smacznego! 💚
 

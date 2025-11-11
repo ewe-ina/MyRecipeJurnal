@@ -1,10 +1,10 @@
-Title: Papryka faszerowana
-Date: 2021-08-01
-Slug: stuffed-peppers
-Summary: Klasyczna faszerowana papryka z pieczarkami, ryżem i mozzarellą – aromatyczna, kolorowa i pyszna.
-Author: Mariola Walkusz
-Lang: pl
-TranslationKey: stuffed-peppers
+Title: Papryka faszerowana  
+Date: 2021-08-01  
+Slug: stuffed-peppers  
+Summary: Klasyczna faszerowana papryka z pieczarkami, ryżem i mozzarellą – aromatyczna, kolorowa i pyszna.  
+Author: Mariola Walkusz  
+Lang: pl  
+TranslationKey: stuffed-peppers  
 
 ---
 
@@ -17,7 +17,7 @@ TranslationKey: stuffed-peppers
 
 ---
 
-#### 🌿 Składniki
+#### Składniki
 
 &emsp; <input type="checkbox"> czerwona, słodka papryka </br>
 &emsp; <input type="checkbox"> pieczarki </br>
@@ -29,7 +29,7 @@ TranslationKey: stuffed-peppers
 &emsp; <input type="checkbox"> olej </br>
 &emsp; <input type="checkbox"> masło do wysmarowania naczynia </br>
 
-#### 📝 Przygotowanie
+#### Przygotowanie
 
 Z papryki ściąć wierzch z ogonkiem i wyczyścić środek.  
 Ryż ugotować na sypko.  

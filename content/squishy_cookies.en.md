@@ -17,6 +17,8 @@ Inspired by Natalia’s recipe originally called “one-batch squishies” 😃
 🔹 1 large baking tray </br>
 🔹 Oven: top-bottom heat, 180°C / 350°F, 14 min </br>
 
+---
+
 #### Ingredients
 
 &emsp; <input type="checkbox"> 1 very ripe banana </br>
@@ -38,6 +40,8 @@ Inspired by Natalia’s recipe originally called “one-batch squishies” 😃
    (Or make little balls and flatten them – you’ll get two trays of cookies 😉)
 6. Bake in a preheated oven (top-bottom heat, 180°C / 350°F) for 14 minutes, until golden on top.
 7. Let cool, then cut into squares.
+
+---
 
 Ask your testers if it was good 😃
 I loved them
