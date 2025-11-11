@@ -52,6 +52,6 @@ When you’re short on time...
 
 And just like that — another quick lunch is ready 😉  
 
-Enjoy! 💚
+Enjoy! 💙
 
 [def]: static/images/mini_tortillas.jpg

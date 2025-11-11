@@ -47,6 +47,6 @@ It might not win a beauty contest, but it’s seriously tasty 😋
 
 ---
 
-Enjoy! 💚
+Enjoy! 💙
 
 [def]: static/images/young_cabbage_tofu.jpg

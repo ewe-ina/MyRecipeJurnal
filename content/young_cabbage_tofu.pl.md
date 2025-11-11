@@ -47,6 +47,6 @@ Nie wygląda olśniewająco, ale jest pyszka 😋
 
 ---
 
-Smacznego! 💚
+Smacznego! 💙
 
 [def]: static/images/young_cabbage_tofu.jpg

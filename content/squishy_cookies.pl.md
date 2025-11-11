@@ -19,7 +19,7 @@ Zainspirowane przepisem Natalii o oryginalnej nazwie „gnioteczki z jedyneczki�
 
 ---
 
-### Składniki
+#### Składniki
 
 &emsp; <input type="checkbox"> 1 mocno dojrzały banan </br>
 &emsp; <input type="checkbox"> 200 g oleju kokosowego </br>
@@ -30,7 +30,7 @@ Zainspirowane przepisem Natalii o oryginalnej nazwie „gnioteczki z jedyneczki�
 &emsp; <input type="checkbox"> 2 szklanki mąki </br>
 &emsp; <input type="checkbox"> 1/2 posiekanej tabliczki gorzkiej czekolady (taka z założenia miała być, ale przez przypadek wzięłam inną) </br>
 
-### Przygotowanie
+#### Przygotowanie
 
 1. Do miski wrzucamy banana i tuptamy go widelcem.
 2. Dokładamy olej kokosowy i ksylitol. Ucieramy – robiłam to drewnianą pałką, bo nie chciało mi się wyciągać miksera 😉  

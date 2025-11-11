@@ -53,6 +53,6 @@ kładziemy po liściu sałaty, 2 paseczki marchewki, na to nasz ryżowo-fasolowy
 
 I znowu mamy szybki obiad 😉
 
-Smacznego! 💚
+Smacznego! 💙
 
 [def]: static/images/mini_tortillas.jpg

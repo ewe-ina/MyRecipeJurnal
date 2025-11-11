@@ -66,6 +66,6 @@ Serve it beautifully on a few spinach leaves — we eat with our eyes, too!
 
 ---
 
-Enjoy! 💚
+Enjoy! 💙
 
 [def]: static/images/eggplant_tofu_stew.jpg

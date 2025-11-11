@@ -66,6 +66,6 @@ Wykładamy dla efektu na liściach szpinaku. Bo je się też oczami!
 
 ---
 
-Smacznego! 💚
+Smacznego! 💙
 
 [def]: static/images/eggplant_tofu_stew.jpg
