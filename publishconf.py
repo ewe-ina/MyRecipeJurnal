@@ -3,11 +3,14 @@ RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THEME = 'themes/bootstrap5'
-STATIC_PATHS = ['static']
-
+TIMEZONE = 'Europe/Warsaw'
 DEFAULT_LANG = 'en'
 LOCALE = 'en_US.UTF-8'
+
+PATH = 'content'
+STATIC_PATHS = ['static']
+
+THEME = 'themes/bootstrap5'
 
 PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {
