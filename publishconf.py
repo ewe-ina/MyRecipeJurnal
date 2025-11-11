@@ -12,6 +12,7 @@ STATIC_PATHS = ['static']
 
 THEME = 'themes/bootstrap5'
 
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
