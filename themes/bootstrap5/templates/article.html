@@ -1,12 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="container mt-5">
-  <a href="{{ SITEURL }}/" class="btn btn-secondary mt-4">← Back to recipes</a>
   <h1 class="mb-4">{{ article.title }}</h1>
   <p><em>{{ article.date.strftime('%B %d, %Y') }} &nbsp;&nbsp;|&nbsp;&nbsp; {{ article.author }}</em></p>
   <div class="content">
     {{ article.content }}
   </div>
-  <a href="{{ SITEURL }}/" class="btn btn-secondary mt-4">← Back to recipes</a>
+  <a href="{{ SITEURL }}/" class="btn btn-secondary btn-sm">← Back to recipes</a>
 </div>
 {% endblock %}
