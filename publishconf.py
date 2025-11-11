@@ -12,21 +12,8 @@ STATIC_PATHS = ['static']
 
 THEME = 'themes/bootstrap5'
 
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
-}
-
-I18N_SUBSITES = {
-    'pl': {
-        'SITENAME': 'Przepysznik',
-        'DEFAULT_LANG': 'pl',
-        'LOCALE': 'pl_PL.UTF-8',
-        'SITEURL': 'https://ewe-ina.github.io/MyRecipeJurnal',
-        'ARTICLE_URL': '{slug}-pl.html',
-        'ARTICLE_SAVE_AS': '{slug}-pl.html',
-    }
 }
 
 DEFAULT_METADATA_ENCODING = 'utf-8'
