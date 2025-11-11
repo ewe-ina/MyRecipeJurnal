@@ -32,6 +32,8 @@ ENV/
 
 # Pelican output (generated site)
 output/
+# generate_thumbnails.py output
+content/thumbs.json
 
 # Logs
 *.log

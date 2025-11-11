@@ -26,6 +26,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install "pelican[markdown]"
+          pip install pillow  # Needed for generate_thumbnails.py
+
+      - name: Generate thumbnails
+        run: |
+          python generate_thumbnails.py
 
       - name: Build site
         run: |
