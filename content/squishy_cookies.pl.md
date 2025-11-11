@@ -28,7 +28,7 @@ Zainspirowane przepisem Natalii o oryginalnej nazwie „gnioteczki z jedyneczki�
 &emsp; <input type="checkbox"> 1 łyżeczka sody oczyszczonej </br>
 &emsp; <input type="checkbox"> szczypta soli </br>
 &emsp; <input type="checkbox"> 2 szklanki mąki </br>
-&emsp; <input type="checkbox"> 1/2 posiekanej tabliczki gorzkiej czekolady (taka z założenia miała być, ale przez przypadek wzięłam inną) </br>
+&emsp; <input type="checkbox"> ½ posiekanej tabliczki gorzkiej czekolady (taka z założenia miała być, ale przez przypadek wzięłam inną) </br>
 
 #### Przygotowanie
 

@@ -28,7 +28,7 @@ Inspired by Natalia’s recipe originally called “one-batch squishies” 😃
 &emsp; <input type="checkbox"> 1 teaspoon baking soda </br>
 &emsp; <input type="checkbox"> a pinch of salt </br>
 &emsp; <input type="checkbox"> 2 cups flour </br>
-&emsp; <input type="checkbox"> 1/2 bar of dark chocolate, chopped (or whatever you grab by accident 😉) </br>
+&emsp; <input type="checkbox"> ½ bar of dark chocolate, chopped (or whatever you grab by accident 😉) </br>
 
 #### Preparation
 

@@ -27,10 +27,10 @@ Kiedy nie masz czasu na gotowanie...
 ##### 🍚 Wsad
 
 &emsp; <input type="checkbox"> ~ 200 g ryżu naturalnego </br>
-&emsp; <input type="checkbox"> 1/2 łyżeczki soli </br>
+&emsp; <input type="checkbox"> ½ łyżeczki soli </br>
 &emsp; <input type="checkbox"> puszka czerwonej fasoli </br>
 &emsp; <input type="checkbox"> 3 poszczypiorkowe dymki </br>
-&emsp; <input type="checkbox"> 1/2 czerwonej papryki </br>
+&emsp; <input type="checkbox"> ½ czerwonej papryki </br>
 &emsp; <input type="checkbox"> mix przypraw do kuchni meksykańskiej </br>
 
 ##### 🥬 Dodatki

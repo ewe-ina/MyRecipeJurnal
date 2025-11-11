@@ -28,9 +28,9 @@ Danie ekspres w locie 🚀
 ##### 🥬 Potrawka
 
 &emsp; <input type="checkbox"> 1 łyżka oleju </br>
-&emsp; <input type="checkbox"> 1/2 cebuli </br>
+&emsp; <input type="checkbox"> ½ cebuli </br>
 &emsp; <input type="checkbox"> sól </br>
-&emsp; <input type="checkbox"> 1/2 główki młodej kapusty </br>
+&emsp; <input type="checkbox"> ½ główki młodej kapusty </br>
 &emsp; <input type="checkbox"> trochę wody </br>
 &emsp; <input type="checkbox"> 1 kostka tofu naturalnego </br>
 &emsp; <input type="checkbox"> przyprawy (u mnie ostra papryka, kurkuma, sól i coś brązowego 😛) </br>

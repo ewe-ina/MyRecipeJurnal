@@ -28,9 +28,9 @@ A lightning-fast meal made on the fly ⚡
 ##### 🥬 The Stir-fry
 
 &emsp; <input type="checkbox"> 1 tbsp oil </br>
-&emsp; <input type="checkbox"> 1/2 onion </br>
+&emsp; <input type="checkbox"> ½ onion </br>
 &emsp; <input type="checkbox"> salt </br>
-&emsp; <input type="checkbox"> 1/2 head young cabbage </br>
+&emsp; <input type="checkbox"> ½ head young cabbage </br>
 &emsp; <input type="checkbox"> a bit of water </br>
 &emsp; <input type="checkbox"> 1 block firm tofu </br>
 &emsp; <input type="checkbox"> spices (I used hot paprika, turmeric, salt, and... something brown 😛) </br>

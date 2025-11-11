@@ -27,10 +27,10 @@ When you’re short on time...
 ##### 🍚 Filling
 
 &emsp; <input type="checkbox"> ~200 g brown rice </br>
-&emsp; <input type="checkbox"> 1/2 tsp salt </br>
+&emsp; <input type="checkbox"> ½ tsp salt </br>
 &emsp; <input type="checkbox"> 1 can red kidney beans </br>
 &emsp; <input type="checkbox"> 3 spring onions </br>
-&emsp; <input type="checkbox"> 1/2 red bell pepper </br>
+&emsp; <input type="checkbox"> ½ red bell pepper </br>
 &emsp; <input type="checkbox"> a mix of Mexican-style spices </br>
 
 ##### 🥬 Toppings
