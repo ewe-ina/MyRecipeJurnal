@@ -1,5 +1,5 @@
 AUTHOR = 'Ewelina Walkusz'
-SITENAME = 'My Recipe Jurnal'
+SITENAME = 'My Recipe Journal'
 SITEURL = 'http://localhost:8000'
 RELATIVE_URLS = False
 

@@ -1,4 +1,4 @@
-SITEURL = 'https://ewe-ina.github.io/MyRecipeJurnal'
+SITEURL = 'https://ewe-ina.github.io/MyRecipeJournal'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
