@@ -6,7 +6,7 @@ A notebook for all my kitchen experiments and delicious mistakes.
 
 Activate virtual environment
 
-``bash
+```bash
 # Linux
 source ./.venv/bin/activate
 
@@ -18,7 +18,11 @@ Compile .mo from .po
 
 ```bash
 msgfmt messages.po -o messages.mo
+```
+
 or
+
+```bash
 python -m babel.messages.frontend compile --directory=themes/bootstrap5/translations
 
 ```
@@ -33,6 +37,6 @@ python3 -m http.server -d output
 
 ## License
 
-Recipes © Ewelina Walkusz, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Recipes © Ewelina Walkusz licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
 Site code © Ewelina Walkusz, licensed under [MIT License](LICENSE)
