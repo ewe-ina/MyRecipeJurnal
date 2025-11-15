@@ -28,19 +28,19 @@ For those who love cheese, but can’t have it.
 
 ##### 🧀 Sauce  
 
-&emsp; <input type="checkbox"> 1 tablespoon olive oil </br>  
-&emsp; <input type="checkbox"> 1 onion </br>  
-&emsp; <input type="checkbox"> a few garlic cloves </br>  
-&emsp; <input type="checkbox"> about 600 ml soy milk </br>  
-&emsp; <input type="checkbox"> spices: dried veggies, salt, sweet paprika, hot paprika, nutmeg </br>  
-&emsp; <input type="checkbox"> 4 tablespoons nutritional yeast (roughly 😉) </br>  
-&emsp; <input type="checkbox"> 2 tablespoons flour </br>  
+&emsp; <input type="checkbox"> 1 tablespoon olive oil </br>
+&emsp; <input type="checkbox"> 1 onion </br>
+&emsp; <input type="checkbox"> a few garlic cloves </br>
+&emsp; <input type="checkbox"> about 600 ml soy milk </br>
+&emsp; <input type="checkbox"> spices: dried veggies, salt, sweet paprika, hot paprika, nutmeg </br>
+&emsp; <input type="checkbox"> 4 tablespoons nutritional yeast (roughly 😉) </br>
+&emsp; <input type="checkbox"> 2 tablespoons flour </br>
 
 ##### 🌿 Toppings  
 
-&emsp; <input type="checkbox"> vegan cheese – for sprinkling </br>  
-&emsp; <input type="checkbox"> freshly ground pepper </br>  
-&emsp; <input type="checkbox"> garden cress </br>  
+&emsp; <input type="checkbox"> vegan cheese – for sprinkling </br>
+&emsp; <input type="checkbox"> freshly ground pepper </br>
+&emsp; <input type="checkbox"> garden cress </br>
 
 #### Preparation  
 

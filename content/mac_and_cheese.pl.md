@@ -24,23 +24,23 @@ Dla tych, co ser lubią, a nie mogą.
 
 ##### 🍲 Makaron  
 
-&emsp; <input type="checkbox"> ulubiony makaron – ugotowany! 😉 </br>  
+&emsp; <input type="checkbox"> ulubiony makaron – ugotowany! 😉 </br>
 
 ##### 🧀 Sos  
 
-&emsp; <input type="checkbox"> 1 łyżka oliwy z oliwek </br>  
-&emsp; <input type="checkbox"> 1 cebula </br>  
-&emsp; <input type="checkbox"> kilka ząbków czosnku </br>  
-&emsp; <input type="checkbox"> około 600 ml mleka sojowego </br>  
-&emsp; <input type="checkbox"> przyprawy: suszone warzywa, sól, papryka słodka, papryka ostra, gałka muszkatołowa </br>  
-&emsp; <input type="checkbox"> 4 łyżki płatków drożdżowych (na oko 😉) </br>  
-&emsp; <input type="checkbox"> 2 łyżki mąki </br>  
+&emsp; <input type="checkbox"> 1 łyżka oliwy z oliwek </br>
+&emsp; <input type="checkbox"> 1 cebula </br>
+&emsp; <input type="checkbox"> kilka ząbków czosnku </br>
+&emsp; <input type="checkbox"> około 600 ml mleka sojowego </br>
+&emsp; <input type="checkbox"> przyprawy: suszone warzywa, sól, papryka słodka, papryka ostra, gałka muszkatołowa </br>
+&emsp; <input type="checkbox"> 4 łyżki płatków drożdżowych (na oko 😉) </br>
+&emsp; <input type="checkbox"> 2 łyżki mąki </br>
 
 ##### 🌿 Dodatki  
 
-&emsp; <input type="checkbox"> wegański ser żółty – do posypania </br>  
-&emsp; <input type="checkbox"> świeżo mielony pieprz </br>  
-&emsp; <input type="checkbox"> rzeżucha </br>  
+&emsp; <input type="checkbox"> wegański ser żółty – do posypania </br>
+&emsp; <input type="checkbox"> świeżo mielony pieprz </br>
+&emsp; <input type="checkbox"> rzeżucha </br>
 
 #### Przygotowanie  
 
