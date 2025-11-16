@@ -1,33 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="container mt-5 position-relative">
-
-  <!-- Language switcher -->
-  <div class="language-switcher position-absolute top-0 end-0 m-3 d-none d-md-block">
-    {% if SITE_LANG == 'pl' %}
-      <a href="{{ SITEURL }}/" class="btn btn-outline-primary btn-sm">🇬🇧 English</a>
-    {% else %}
-      <a href="{{ SITEURL }}/pl/" class="btn btn-outline-primary btn-sm">🇵🇱 Polski</a>
-    {% endif %}
-  </div>
-
-  <!-- Language switcher for small screens -->
-  <div class="d-block d-md-none mb-3 text-center">
-    {% if SITE_LANG == 'pl' %}
-      <a href="{{ SITEURL }}/" class="btn btn-outline-primary btn-sm">🇬🇧 English</a>
-    {% else %}
-      <a href="{{ SITEURL }}/pl/" class="btn btn-outline-primary btn-sm">🇵🇱 Polski</a>
-    {% endif %}
-  </div>
-
-  <!-- Page title -->
-  {% if SITE_LANG == 'pl' %}
-    <h1 class="mb-4 text-center">🧁 Mój Przepysznik</h1>
-  {% else %}
-    <h1 class="mb-4 text-center">🧁 My Recipe Journal</h1>
-  {% endif %}
-
-  <!-- Articles grid -->
+<div class="container mt-5">
+  <h1 class="mb-4 text-center">🧁 My Recipe Journal</h1>
   <div class="row">
     {% for article in articles %}
     <div class="col-md-4 mb-4">
@@ -38,11 +12,7 @@
         <div class="card-body">
           <h5 class="card-title">{{ article.title }}</h5>
           <p class="card-text">{{ article.summary }}</p>
-          {% if article.lang == 'pl' %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">Zobacz przepis</a>
-          {% else %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">View Recipe</a>
-          {% endif %}
+          <a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">View Recipe</a>
         </div>
       </div>
     </div>
