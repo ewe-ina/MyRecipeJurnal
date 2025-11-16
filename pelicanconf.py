@@ -12,35 +12,22 @@ STATIC_PATHS = ['static']
 
 THEME = 'themes/bootstrap5'
 
-# Enable i18n plugin and translations
-PLUGINS = ['i18n_subsites']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
-}
-
-# Define your languages
-I18N_SUBSITES = {
-    'pl': {
-        'SITENAME': 'Przepysznik',
-        'DEFAULT_LANG': 'pl',
-        'LOCALE': 'pl_PL.UTF-8',
-        'SITEURL': 'http://localhost:8000',
-        'ARTICLE_URL': '{slug}-pl.html',
-        'ARTICLE_SAVE_AS': '{slug}-pl.html',
-    }
 }
 
 DEFAULT_METADATA_ENCODING = 'utf-8'
 
 # -------------------------------
-# Thumbnail flags from JSON
-# -------------------------------
 import json
+import locale
 import os
 from pelican import signals
 
-# Path to JSON file created by generate_thumbnails.py
-THUMBS_JSON = os.path.join(PATH, 'thumbs.json')
+# -------------------------------
+# Thumbnail flags from JSON
+# -------------------------------
+THUMBS_JSON = os.path.join(PATH, 'thumbs.json') # Path to JSON file created by generate_thumbnails.py
 if os.path.exists(THUMBS_JSON):
     with open(THUMBS_JSON, 'r', encoding='utf-8') as f:
         thumbs_data = json.load(f)
@@ -60,8 +47,6 @@ signals.article_generator_finalized.connect(add_thumb_flag)
 # -------------------------------
 # Date formatting filter depending on article language
 # -------------------------------
-import locale
-
 def datetimeformat(article, format_pl='%d %B %Y', format_en='%B %d, %Y'):
     """
     Format article.date according to its language.
@@ -82,3 +67,19 @@ def datetimeformat(article, format_pl='%d %B %Y', format_en='%B %d, %Y'):
 JINJA_FILTERS = {
     'datetimeformat': datetimeformat,
 }
+
+# -------------------------------
+# Global SITE_LANG for Jinja templates
+# -------------------------------
+def set_site_lang(generator, metadata):
+    """
+    Set SITE_LANG variable in Jinja context for the current page.
+    Uses the generator's DEFAULT_LANG or the article's lang.
+    """
+    # For articles, use article.lang
+    lang = getattr(generator, 'lang', generator.settings.get('DEFAULT_LANG', 'en'))
+    generator.context['SITE_LANG'] = lang
+
+# Connect to article generator and page generator
+signals.article_generator_preread.connect(set_site_lang)
+signals.page_generator_preread.connect(set_site_lang)
