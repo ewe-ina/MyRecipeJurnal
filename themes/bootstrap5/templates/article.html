@@ -6,6 +6,10 @@
   <div class="content">
     {{ article.content }}
   </div>
-  <a href="{{ SITEURL }}/" class="btn btn-secondary btn-sm">← Back to recipes</a>
+  {% if article.lang == 'pl' %}
+    <a href="{{ SITEURL }}/" class="btn btn-secondary btn-sm">← Wróć do przepisów</a>
+  {% else %}
+    <a href="{{ SITEURL }}/" class="btn btn-secondary btn-sm">← Back to recipes</a>
+  {% endif %}
 </div>
 {% endblock %}
